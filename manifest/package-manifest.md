@@ -1,0 +1,366 @@
+# Package manifest
+
+## Identidad
+
+- Source branch: `handoff-edwin-v1`
+- Source base: `pre-api-ui`
+- Source commit: `a7b823a`
+- Prototipo: **Hupi.Pet Mobile Functional Prototype**
+- Criterio: 260 archivos REQUIRED + 9 DEV_QA.
+- Archivos dentro de `app/` antes de instalar: **269**.
+- Pantallas/superficies documentadas: **78** (75 producto + 3 DEV_QA).
+- Flujos maestros documentados: **28**.
+- Formularios documentados: **38**.
+- Documentos funcionales incluidos: **14**.
+- Diagramas incluidos: **2**.
+
+## Contenido incluido
+
+Se copió exclusivamente la aplicación móvil alcanzable clasificada como REQUIRED y el soporte DEV_QA necesario para demostrar los flujos. Incluye configuración Expo/TypeScript, package lock, rutas, componentes, dominio, repositorios locales, mocks, i18n, assets usados y todas las pruebas móviles.
+
+`app/package.json` conserva dependencias y comandos de ejecución/typecheck/tests. En esta copia se retiraron únicamente los scripts npm que apuntaban al tooling i18n/auditoría excluido.
+
+Adaptaciones no funcionales de la copia:
+
+- `i18n/components.tsx` deriva el mapa inverso desde `generated/es.json`; el resultado es idéntico a las 1.947 entradas del `source-map.json` excluido.
+- `provider-checkout-layout.test.mjs` ya no intenta abrir `provider/support-request.tsx`, ruta UNUSED excluida; conserva las comprobaciones sobre todas las rutas proveedor incluidas.
+
+### DEV_QA incluido
+
+- `app/src/app/client/qa-profiles.tsx`
+- `app/src/app/client/qa-provider-verification.tsx`
+- `app/src/app/client/qa-walk.tsx`
+- `app/src/data/localQaRepository.ts`
+- `app/src/domain/qaTools.ts`
+- `app/src/domain/qaWalk.ts`
+- `app/src/hooks/useLocalQa.ts`
+- `app/src/config/qaMode.ts`
+- `app/tests/qa-tools.test.mjs`
+
+## Contenido excluido
+
+- `apps/mobile/AGENTS.md`
+- `apps/mobile/CLAUDE.md`
+- `apps/mobile/.claude/`
+- `apps/mobile/.env y variantes`
+- `apps/mobile/.gitignore`
+- `apps/mobile/expo-env.d.ts (generado por Expo)`
+- `apps/mobile/scripts/ (seis scripts de auditoría/migración)`
+- `apps/mobile/src/i18n/generated/source-map.json`
+- `apps/mobile/assets/splash-icon.png`
+- `apps/mobile/src/app/client/chat-detail.tsx`
+- `apps/mobile/src/app/marketplace/order-history.tsx`
+- `apps/mobile/src/app/marketplace/order-history-detail.tsx`
+- `apps/mobile/src/app/marketplace/payment-proof.tsx`
+- `apps/mobile/src/app/provider/support-request.tsx`
+- `apps/mobile/src/components/BannerCard.tsx`
+- `apps/mobile/src/components/SectionHeader.tsx`
+- `apps/mobile/src/components/ServiceCard.tsx`
+- `apps/mobile/src/components/TypographyText.tsx`
+- `apps/mobile/src/components/chat/SupportOptionCard.tsx`
+- `apps/mobile/src/components/marketplace/FloatingCartButton.tsx`
+- `apps/mobile/src/components/providers/MockMap.tsx`
+- `apps/mobile/src/features/home/HomeCtaCard.tsx`
+- `apps/mobile/src/i18n/content.ts`
+- `apps/mobile/src/i18n/errors.ts`
+- `apps/mobile/src/i18n/statuses.ts`
+- `node_modules/, .expo/, dist/, builds, caches, .DS_Store`
+- `apps/admin, services/api, Docker y resto del monorepo`
+- `documentación histórica fuera de docs/handoff-edwin seleccionada`
+
+Los archivos excluidos no fueron eliminados ni modificados en `apps/mobile`.
+
+## Inventario exacto de archivos de app incluidos
+
+- `app/app.config.js`
+- `app/app.json`
+- `app/assets/adaptive-icon.png`
+- `app/assets/banners/1.png`
+- `app/assets/banners/2.png`
+- `app/assets/banners/3.png`
+- `app/assets/brand/logo_hupi.png`
+- `app/assets/brand/logo_hupi_pages.png`
+- `app/assets/brand/sonido_hupi.mp3`
+- `app/assets/favicon.png`
+- `app/assets/icon.png`
+- `app/assets/profile-defaults/dueno_hupi.jpeg`
+- `app/assets/profile-defaults/mascota_hupi.jpeg`
+- `app/assets/profile-defaults/proveedor_hupi.jpeg`
+- `app/package-lock.json`
+- `app/package.json`
+- `app/src/app/(auth)/_layout.tsx`
+- `app/src/app/(auth)/access-recovery.tsx`
+- `app/src/app/(auth)/login.tsx`
+- `app/src/app/(auth)/provider-access.tsx`
+- `app/src/app/(auth)/provider-onboarding.tsx`
+- `app/src/app/(auth)/register.tsx`
+- `app/src/app/(auth)/verify-sms.tsx`
+- `app/src/app/(onboarding)/_layout.tsx`
+- `app/src/app/(onboarding)/onboarding-profile.tsx`
+- `app/src/app/(onboarding)/permissions.tsx`
+- `app/src/app/(onboarding)/welcome.tsx`
+- `app/src/app/(tabs)/_layout.tsx`
+- `app/src/app/(tabs)/bookings.tsx`
+- `app/src/app/(tabs)/home.tsx`
+- `app/src/app/(tabs)/marketplace.tsx`
+- `app/src/app/(tabs)/profile.tsx`
+- `app/src/app/(tabs)/support.tsx`
+- `app/src/app/_layout.tsx`
+- `app/src/app/chat.tsx`
+- `app/src/app/client/addresses.tsx`
+- `app/src/app/client/billing.tsx`
+- `app/src/app/client/booking-confirmation.tsx`
+- `app/src/app/client/booking-detail.tsx`
+- `app/src/app/client/edit-profile.tsx`
+- `app/src/app/client/favorites.tsx`
+- `app/src/app/client/payment-methods.tsx`
+- `app/src/app/client/pet-analytics.tsx`
+- `app/src/app/client/pet-detail.tsx`
+- `app/src/app/client/pet-form.tsx`
+- `app/src/app/client/pet-stats.tsx`
+- `app/src/app/client/pets.tsx`
+- `app/src/app/client/privacy.tsx`
+- `app/src/app/client/provider-detail.tsx`
+- `app/src/app/client/providers.tsx`
+- `app/src/app/client/qa-profiles.tsx`
+- `app/src/app/client/qa-provider-verification.tsx`
+- `app/src/app/client/qa-walk.tsx`
+- `app/src/app/client/service-checkout.tsx`
+- `app/src/app/client/settings.tsx`
+- `app/src/app/client/terms.tsx`
+- `app/src/app/index.tsx`
+- `app/src/app/marketplace/all-products.tsx`
+- `app/src/app/marketplace/all-stores.tsx`
+- `app/src/app/marketplace/cart.tsx`
+- `app/src/app/marketplace/category.tsx`
+- `app/src/app/marketplace/checkout.tsx`
+- `app/src/app/marketplace/coupons.tsx`
+- `app/src/app/marketplace/notifications.tsx`
+- `app/src/app/marketplace/official-store.tsx`
+- `app/src/app/marketplace/order-confirmation.tsx`
+- `app/src/app/marketplace/order-detail.tsx`
+- `app/src/app/marketplace/order-tracking.tsx`
+- `app/src/app/marketplace/orders.tsx`
+- `app/src/app/marketplace/payment-deuna.tsx`
+- `app/src/app/marketplace/payment-transfer.tsx`
+- `app/src/app/marketplace/product-detail.tsx`
+- `app/src/app/marketplace/wallet.tsx`
+- `app/src/app/provider/_layout.tsx`
+- `app/src/app/provider/index.tsx`
+- `app/src/app/provider/marketplace-finance.tsx`
+- `app/src/app/provider/marketplace-order-detail.tsx`
+- `app/src/app/provider/marketplace-orders.tsx`
+- `app/src/app/provider/marketplace-store.tsx`
+- `app/src/app/provider/messages.tsx`
+- `app/src/app/provider/notifications.tsx`
+- `app/src/app/provider/product-editor.tsx`
+- `app/src/app/provider/products.tsx`
+- `app/src/app/provider/shipping-settings.tsx`
+- `app/src/app/provider/store-profile.tsx`
+- `app/src/app/provider/verification.tsx`
+- `app/src/app/provider/walk-booking-detail.tsx`
+- `app/src/app/provider/walks.tsx`
+- `app/src/components/AppearanceSelectorModal.tsx`
+- `app/src/components/Button.tsx`
+- `app/src/components/Card.tsx`
+- `app/src/components/DisabledServiceNotice.tsx`
+- `app/src/components/HupiConfirmationModal.tsx`
+- `app/src/components/HupiPagesLogo.tsx`
+- `app/src/components/HupiSuccessModal.tsx`
+- `app/src/components/IconButton.tsx`
+- `app/src/components/Input.tsx`
+- `app/src/components/LanguageSelectorModal.tsx`
+- `app/src/components/NativeDateTimeFields.tsx`
+- `app/src/components/NotificationBell.tsx`
+- `app/src/components/OtpInput.tsx`
+- `app/src/components/PageHeader.tsx`
+- `app/src/components/PhoneCountryInput.tsx`
+- `app/src/components/PhoneInput.tsx`
+- `app/src/components/ProfileAvatar.tsx`
+- `app/src/components/ProfilePhotoPicker.tsx`
+- `app/src/components/ScreenContainer.tsx`
+- `app/src/components/addresses/AddressEditor.tsx`
+- `app/src/components/addresses/AddressIcon.tsx`
+- `app/src/components/addresses/AddressMap.native.tsx`
+- `app/src/components/addresses/AddressMap.tsx`
+- `app/src/components/addresses/AddressMap.types.ts`
+- `app/src/components/addresses/AddressMap.web.tsx`
+- `app/src/components/addresses/AddressOptionField.tsx`
+- `app/src/components/addresses/AddressPreferencesEditor.tsx`
+- `app/src/components/booking/BookingSummaryCard.tsx`
+- `app/src/components/booking/DonationCard.tsx`
+- `app/src/components/booking/PaymentMethodSelector.tsx`
+- `app/src/components/booking/PaymentSummaryCard.tsx`
+- `app/src/components/booking/PolicySummaryCard.tsx`
+- `app/src/components/bookings/BookingCard.tsx`
+- `app/src/components/bookings/BookingStatusBadge.tsx`
+- `app/src/components/bookings/BookingTimeline.tsx`
+- `app/src/components/bookings/CancellationPolicyCard.tsx`
+- `app/src/components/bookings/ReviewPromptCard.tsx`
+- `app/src/components/chat/ChatCard.tsx`
+- `app/src/components/chat/ChatMessageBubble.tsx`
+- `app/src/components/chat/FaqItem.tsx`
+- `app/src/components/chat/OfferComposerModal.tsx`
+- `app/src/components/chat/PresenceStatus.tsx`
+- `app/src/components/chat/SafetyNoticeCard.tsx`
+- `app/src/components/chat/SocialLinkCard.tsx`
+- `app/src/components/marketplace/CartItemCard.tsx`
+- `app/src/components/marketplace/CategoryCard.tsx`
+- `app/src/components/marketplace/MarketplaceBanner.tsx`
+- `app/src/components/marketplace/MarketplacePromoModal.tsx`
+- `app/src/components/marketplace/MarketplaceSupportTicketCard.tsx`
+- `app/src/components/marketplace/OfficialStoreCard.tsx`
+- `app/src/components/marketplace/OrderSummaryCard.tsx`
+- `app/src/components/marketplace/OrderTimeline.tsx`
+- `app/src/components/marketplace/ProductCard.tsx`
+- `app/src/components/marketplace/ProductPriceBlock.tsx`
+- `app/src/components/marketplace/ProviderReviewPromptModal.tsx`
+- `app/src/components/marketplace/QuantitySelector.tsx`
+- `app/src/components/marketplace/QuickCartBar.tsx`
+- `app/src/components/marketplace/ShippingMethodCard.tsx`
+- `app/src/components/notifications/SwipeableNotification.tsx`
+- `app/src/components/provider/ProviderPageHeader.tsx`
+- `app/src/components/provider/ProviderReviewsModal.tsx`
+- `app/src/components/provider/ProviderTermsAcceptanceBlock.tsx`
+- `app/src/components/provider/ProviderTermsModal.tsx`
+- `app/src/components/provider/ProviderWalkProfileEditor.tsx`
+- `app/src/components/provider/WalkSpecialConditionsAccordion.tsx`
+- `app/src/components/providers/FavoriteProviderListsModal.tsx`
+- `app/src/components/providers/FilterChip.tsx`
+- `app/src/components/providers/HupiLevelBadge.tsx`
+- `app/src/components/providers/HupiVerifiedBadge.tsx`
+- `app/src/components/providers/ProviderCard.tsx`
+- `app/src/components/providers/ProviderMap.native.tsx`
+- `app/src/components/providers/ProviderMap.tsx`
+- `app/src/components/providers/ProviderMap.types.ts`
+- `app/src/components/providers/ProviderMap.web.tsx`
+- `app/src/components/providers/RatingBadge.tsx`
+- `app/src/components/support/SupportReasonPicker.tsx`
+- `app/src/config/environment.ts`
+- `app/src/config/qaMode.ts`
+- `app/src/constants/brandAssets.ts`
+- `app/src/constants/colors.ts`
+- `app/src/constants/contentConfig.ts`
+- `app/src/constants/defaultProfileImages.ts`
+- `app/src/constants/ecuadorLocations.ts`
+- `app/src/constants/features.ts`
+- `app/src/constants/marketplaceCouponState.ts`
+- `app/src/constants/marketplaceIssuesState.ts`
+- `app/src/constants/marketplaceOrdersState.ts`
+- `app/src/constants/marketplaceProductEditorOptions.ts`
+- `app/src/constants/marketplaceProviderOrders.ts`
+- `app/src/constants/marketplaceStoreProfileOptions.ts`
+- `app/src/constants/marketplaceStoreState.ts`
+- `app/src/constants/mockBookings.ts`
+- `app/src/constants/mockCheckout.ts`
+- `app/src/constants/mockData.ts`
+- `app/src/constants/mockProviderReviews.ts`
+- `app/src/constants/mockProviders.ts`
+- `app/src/constants/navigationLayout.ts`
+- `app/src/constants/onboardingSlides.ts`
+- `app/src/constants/petBreeds.ts`
+- `app/src/constants/services.ts`
+- `app/src/constants/theme.ts`
+- `app/src/constants/typography.ts`
+- `app/src/constants/typographyTokens.ts`
+- `app/src/data/localAccountRepository.ts`
+- `app/src/data/localProviderRepository.ts`
+- `app/src/data/localQaRepository.ts`
+- `app/src/data/mockProviderProfileRepository.ts`
+- `app/src/domain/accessRecovery.ts`
+- `app/src/domain/address.ts`
+- `app/src/domain/bookingCancellationPolicy.ts`
+- `app/src/domain/document.ts`
+- `app/src/domain/iconButton.ts`
+- `app/src/domain/marketplaceAvailability.ts`
+- `app/src/domain/marketplaceSearch.ts`
+- `app/src/domain/passwordPolicy.ts`
+- `app/src/domain/petHistory.ts`
+- `app/src/domain/profile.ts`
+- `app/src/domain/providerCancellationPolicy.ts`
+- `app/src/domain/providerPricing.ts`
+- `app/src/domain/providerSearch.ts`
+- `app/src/domain/providerShipping.ts`
+- `app/src/domain/providerVerification.ts`
+- `app/src/domain/providerWalkProfile.ts`
+- `app/src/domain/qaTools.ts`
+- `app/src/domain/qaWalk.ts`
+- `app/src/domain/responseTime.ts`
+- `app/src/domain/startup.ts`
+- `app/src/domain/statusPresentation.ts`
+- `app/src/domain/walkOperation.ts`
+- `app/src/features/home/PromoCarousel.tsx`
+- `app/src/features/home/ServiceForm.tsx`
+- `app/src/hooks/useLocalAccount.ts`
+- `app/src/hooks/useLocalProvider.ts`
+- `app/src/hooks/useLocalQa.ts`
+- `app/src/hooks/useMockProviderPricing.ts`
+- `app/src/hooks/useMockProviderProfile.ts`
+- `app/src/i18n/components.tsx`
+- `app/src/i18n/format.ts`
+- `app/src/i18n/generated/en.json`
+- `app/src/i18n/generated/es.json`
+- `app/src/i18n/index.ts`
+- `app/src/i18n/native/en.json`
+- `app/src/i18n/native/es.json`
+- `app/src/i18n/react-i18next.d.ts`
+- `app/src/i18n/resources/en.ts`
+- `app/src/i18n/resources/es.ts`
+- `app/src/i18n/types.ts`
+- `app/src/mocks/provider-events.ts`
+- `app/src/startup/StartupProvider.tsx`
+- `app/src/startup/StartupRecoveryScreen.tsx`
+- `app/src/startup/StartupRouteGuard.tsx`
+- `app/src/startup/StartupVisualSplash.tsx`
+- `app/src/startup/bootstrap.ts`
+- `app/src/theme/ThemeProvider.tsx`
+- `app/src/theme/ThemedIonicons.tsx`
+- `app/src/theme/ThemedPressable.tsx`
+- `app/src/theme/ThemedView.tsx`
+- `app/src/theme/appearance.ts`
+- `app/src/theme/tokens.ts`
+- `app/src/utils/configureTypography.ts`
+- `app/src/utils/hupiSound.ts`
+- `app/src/utils/phone.ts`
+- `app/tests/access-provider-chat.test.mjs`
+- `app/tests/appearance.test.mjs`
+- `app/tests/final-provider-ux.test.mjs`
+- `app/tests/i18n.test.mjs`
+- `app/tests/layout-regressions.test.mjs`
+- `app/tests/marketplace-stock.test.mjs`
+- `app/tests/native-onboarding-icons.test.mjs`
+- `app/tests/onboarding-addresses.test.mjs`
+- `app/tests/pre-api-profile-booking-offers.test.mjs`
+- `app/tests/profile-avatar.test.mjs`
+- `app/tests/provider-chat-addresses.test.mjs`
+- `app/tests/provider-checkout-layout.test.mjs`
+- `app/tests/provider-onboarding-walk-operation.test.mjs`
+- `app/tests/provider-profile-terms.test.mjs`
+- `app/tests/provider-support-status-reviews.test.mjs`
+- `app/tests/qa-tools.test.mjs`
+- `app/tests/startup-hydration.test.mjs`
+- `app/tests/startup-typography.test.mjs`
+- `app/tsconfig.json`
+
+## Documentación incluida
+
+- `docs/functional/00-source-of-truth.md`
+- `docs/functional/01-screen-inventory.md`
+- `docs/functional/02-master-flows.md`
+- `docs/functional/03-forms-and-fields.md`
+- `docs/functional/04-actions-and-navigation.md`
+- `docs/functional/05-states-and-transitions.md`
+- `docs/functional/06-provider-verification.md`
+- `docs/functional/07-services.md`
+- `docs/functional/08-walks.md`
+- `docs/functional/09-marketplace.md`
+- `docs/functional/10-notifications-chat-support.md`
+- `docs/functional/11-data-reuse.md`
+- `docs/functional/12-qa-scenarios.md`
+- `docs/functional/13-backend-capability-map.md`
+- `docs/diagrams/Hupi-Master-Flow.excalidraw`
+- `docs/diagrams/Hupi-Master-Flow.svg`
+
+## Validaciones del paquete
+
+Los resultados finales de instalación limpia, typecheck, pruebas, arranque Metro, auditoría de secretos y Git se reportan en la entrega de esta fase. `node_modules` se crea solo para validar y no forma parte del contenido entregable contabilizado.

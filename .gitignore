@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+expo-env.d.ts
+
+# Rust
+target/
+**/*.rs.bk
+
+# Entorno (nunca commitear credenciales)
+.env
+.env.*
+!.env.example
+
+# Editores
+.idea/
+*.swp

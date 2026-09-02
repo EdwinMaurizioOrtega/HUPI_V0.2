@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="7600" height="6800" viewBox="0 0 7600 6800" role="img" aria-labelledby="title desc">
+<title id="title">Hupi Master Flow</title>
+<desc id="desc">Mapa funcional maestro de Hupi.Pet basado en la auditoría docs/handoff-edwin.</desc>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#6B7280"/></marker></defs>
+<rect width="7600" height="6800" fill="#FFFFFF"/>
+<rect x="80" y="80" width="7440" height="720" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="135" y="205" width="1271" height="105" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1444" y="205" width="1271" height="105" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="2753" y="205" width="1271" height="105" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polygon points="4697.5,205 5333,257.5 4697.5,310 4062,257.5" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<rect x="135" y="338" width="1271" height="105" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1444" y="338" width="1271" height="105" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2753" y="338" width="1271" height="105" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="4062" y="338" width="1271" height="105" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polyline points="1406,257.5 1444,257.5" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2715,257.5 2753,257.5" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4024,257.5 4062,257.5" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4697.5,310 770.5,338" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4697.5,310 2079.5,338" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1406,390.5 2753,390.5" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1406,390.5 4062,390.5" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2715,390.5 2753,390.5" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2715,390.5 4062,390.5" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80" y="920" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="135" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1297" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1878" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="135" y="1181" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="1181" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1297" y="1181" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1878" y="1181" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="135" y="1317" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="1317" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="1297" y="1317" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1878" y="1317" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polyline points="682,1099 716,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,1099 1297,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,1099 1878,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,1153 408.5,1181" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,1235 1297,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,1235 1878,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,1289 408.5,1317" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1570.5,1153 989.5,1181" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="716,1235 682,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,1371 716,1371" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="408.5,1153 1570.5,1317" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="408.5,1289 2151.5,1317" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2600" y="920" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="2655" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="1045" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="3817" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="4398" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="1181" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="1181" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="3817" y="1181" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="4398" y="1181" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="1317" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="1317" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polyline points="3202,1099 3236,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,1099 3817,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4090.5,1153 2928.5,1317" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,1153 2928.5,1181" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,1235 3236,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,1235 3817,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4364,1235 4398,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,1289 2928.5,1317" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,1371 3236,1371" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="5120" y="920" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="5175" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polygon points="6029.5,1045 6303,1099 6029.5,1153 5756,1099" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<rect x="6337" y="1045" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6918" y="1045" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="5175" y="1181" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="5756" y="1181" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6337" y="1181" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6918" y="1181" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5175" y="1317" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="5756" y="1317" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="6337" y="1317" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="6918" y="1317" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5175" y="1453" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5756" y="1453" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6337" y="1453" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6918" y="1453" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<ellipse cx="5448.5" cy="1643" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="6029.5" cy="1643" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="6610.5" cy="1643" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="7191.5" cy="1643" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="5448.5" cy="1779" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<polyline points="5722,1099 5756,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,1099 6337,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,1099 6918,1099" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,1153 5448.5,1181" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,1235 5756,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,1235 6337,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,1235 6918,1235" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,1289 5448.5,1317" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,1371 5756,1371" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,1371 6337,1371" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,1371 6918,1371" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,1425 5448.5,1453" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,1561 6610.5,1589" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,1153 6029.5,1453" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,1425 6610.5,1453" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,1507 6918,1507" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,1561 7191.5,1317" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,1643 5756,1643" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,1643 6337,1643" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,1643 6918,1643" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6918,1643 6884,1643" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6610.5,1697 5448.5,1725" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80" y="1900" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="135" y="2025" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="2025" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1297" y="2025" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1878" y="2025" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="135" y="2161" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="716" y="2161" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="1297" y="2161" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="1878" y="2161" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="135" y="2297" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polygon points="989.5,2297 1263,2351 989.5,2405 716,2351" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<rect x="1297" y="2297" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1878" y="2297" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="135" y="2433" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="2433" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<polyline points="682,2079 716,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,2079 1297,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,2079 1878,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,2133 408.5,2161" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,2215 716,2215" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,2215 1297,2215" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,2215 1878,2215" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,2269 408.5,2297" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,2351 716,2351" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,2351 1297,2351" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,2351 1878,2351" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,2405 408.5,2433" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,2487 716,2487" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2600" y="1900" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="2655" y="2025" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polygon points="3509.5,2025 3783,2079 3509.5,2133 3236,2079" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<ellipse cx="4090.5" cy="2079" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="4398" y="2025" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<ellipse cx="2928.5" cy="2215" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="3509.5" cy="2215" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="4090.5" cy="2215" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="4671.5" cy="2215" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="2655" y="2297" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="2297" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polyline points="3202,2079 3236,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,2079 3817,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4364,2079 4398,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,2133 2928.5,2161" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,2215 3236,2215" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,2215 3817,2215" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3817,2215 3783,2215" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,2215 4398,2215" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4090.5,2133 2928.5,2297" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,2351 3236,2351" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="5120" y="1900" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="5175" y="2025" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5756" y="2025" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6337" y="2025" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="6918" y="2025" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5175" y="2161" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5756" y="2161" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6337" y="2161" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6918" y="2161" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<polyline points="5722,2079 5756,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,2079 6337,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,2079 6918,2079" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,2133 5448.5,2161" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,2133 6029.5,2161" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,2133 6610.5,2161" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,2133 7191.5,2161" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80" y="2880" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="135" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1297" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1878" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="135" y="3141" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="3141" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1297" y="3141" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1878" y="3141" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="135" y="3277" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="3277" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1297" y="3277" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<ellipse cx="2151.5" cy="3331" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="408.5" cy="3467" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="716" y="3413" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<polygon points="1570.5,3413 1844,3467 1570.5,3521 1297,3467" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<polyline points="682,3059 716,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,3059 1297,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,3059 1878,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,3113 408.5,3141" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1570.5,3113 408.5,3141" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,3195 716,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,3195 1297,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,3195 1878,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,3249 408.5,3277" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,3331 716,3331" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,3331 1297,3331" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,3331 1878,3331" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,3385 408.5,3413" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,3467 716,3467" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1570.5,3385 1570.5,3413" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2600" y="2880" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="2655" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3817" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="4398" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="3141" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="3141" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="3817" y="3141" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="4398" y="3141" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="3277" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="3277" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3817" y="3277" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="4398" y="3277" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="3413" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polyline points="3202,3059 3236,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,3059 3817,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,3059 4398,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,3113 2928.5,3141" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,3195 3236,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,3195 3817,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,3113 4671.5,3141" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,3113 2928.5,3277" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,3113 3509.5,3277" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,3331 3817,3331" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,3113 4671.5,3277" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,3113 2928.5,3413" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="5120" y="2880" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="5175" y="3005" width="547" height="108" rx="18" fill="#E8F2FD" stroke="#1976D2" stroke-width="2" stroke-dasharray="3 8"/>
+<rect x="5756" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6337" y="3005" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<ellipse cx="7191.5" cy="3059" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="5175" y="3141" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5756" y="3141" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<ellipse cx="6610.5" cy="3195" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="6918" y="3141" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="5175" y="3277" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5756" y="3277" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<ellipse cx="6610.5" cy="3331" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<polygon points="7191.5,3277 7465,3331 7191.5,3385 6918,3331" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<ellipse cx="5448.5" cy="3467" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="5756" y="3413" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="6337" y="3413" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="6918" y="3413" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="5175" y="3549" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="5756" y="3549" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polyline points="5722,3059 5756,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,3059 6337,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,3059 6918,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,3059 6918,3059" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,3113 5448.5,3141" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,3195 5756,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,3195 6337,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,3195 6918,3195" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,3249 5448.5,3277" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,3331 5756,3331" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,3331 6337,3331" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,3113 7191.5,3277" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,3385 5448.5,3413" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,3467 5756,3467" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,3467 6337,3467" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,3467 6918,3467" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,3249 5448.5,3549" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,3385 6029.5,3549" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80" y="3860" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="135" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polygon points="989.5,3985 1263,4039 989.5,4093 716,4039" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<ellipse cx="1570.5" cy="4039" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="2151.5" cy="4039" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="408.5" cy="4175" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="716" y="4121" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1297" y="4121" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1878" y="4121" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polygon points="408.5,4257 682,4311 408.5,4365 135,4311" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<rect x="716" y="4257" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="1297" y="4257" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="1878" y="4257" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<ellipse cx="408.5" cy="4447" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<polyline points="682,4039 716,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,4039 1297,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,4039 1878,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="989.5,4093 408.5,4121" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1570.5,4093 989.5,4121" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,4093 989.5,4121" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,4175 716,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,4175 1297,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,4175 1878,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,4229 408.5,4257" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,4311 716,4311" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,4311 1297,4311" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,4311 1878,4311" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,4311 1878,4311" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,4365 408.5,4393" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2600" y="3860" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="2655" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3817" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="4398" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="4121" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="4121" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3817" y="4121" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="4398" y="4121" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="2655" y="4257" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="4257" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3817" y="4257" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="4398" y="4257" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="4393" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="4393" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polyline points="3202,4039 3236,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,4039 3817,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,4039 4398,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4364,4039 4398,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,4093 2928.5,4121" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,4175 3236,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,4175 3817,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4364,4175 4398,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,4229 2928.5,4257" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,4229 3509.5,4257" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,4311 3817,4311" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3509.5,4365 3509.5,4121" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4364,4311 4398,4311" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,4365 2928.5,4393" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,4447 3236,4447" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="5120" y="3860" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="5175" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5756" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6337" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6918" y="3985" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5175" y="4121" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5756" y="4121" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6337" y="4121" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<ellipse cx="7191.5" cy="4175" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="5175" y="4257" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<ellipse cx="6029.5" cy="4311" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="6337" y="4257" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6918" y="4257" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5175" y="4393" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polyline points="5722,4039 5756,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,4039 6337,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,4039 6918,4039" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,4093 5448.5,4121" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,4175 5756,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,4175 6337,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,4175 6918,4175" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,4229 5448.5,4257" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,4311 5756,4311" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,4093 6610.5,4257" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,4093 7191.5,4257" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,4093 5448.5,4393" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80" y="4840" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="135" y="4965" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="4965" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1297" y="4965" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="1878" y="4965" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="135" y="5101" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="716" y="5101" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1297" y="5101" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1878" y="5101" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="135" y="5237" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="716" y="5237" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="1297" y="5237" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1878" y="5237" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="135" y="5373" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<polygon points="989.5,5373 1263,5427 989.5,5481 716,5427" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<rect x="1297" y="5373" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polyline points="682,5019 716,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,5019 1297,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,5019 1878,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="408.5,5073 408.5,5101" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="408.5,5073 989.5,5101" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,5155 1297,5155" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,5155 1878,5155" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,5209 408.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1570.5,5209 989.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="989.5,5209 1570.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="408.5,5073 2151.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,5345 408.5,5373" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,5427 716,5427" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,5427 1297,5427" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2600" y="4840" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="2655" y="4965" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="4965" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="3817" y="4965" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<polygon points="4671.5,4965 4945,5019 4671.5,5073 4398,5019" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<rect x="2655" y="5101" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="3236" y="5101" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="3817" y="5101" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polygon points="4671.5,5101 4945,5155 4671.5,5209 4398,5155" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<rect x="2655" y="5237" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3236" y="5237" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polyline points="3509.5,5345 2928.5,4965" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,5019 3236,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,5019 3817,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,5019 4398,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,5073 2928.5,5101" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3202,5155 3236,5155" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3783,5155 3817,5155" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4364,5155 4398,5155" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4671.5,5209 2928.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="5120" y="4840" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="5175" y="4965" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="5756" y="4965" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="6337" y="4965" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6918" y="4965" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5175" y="5101" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5756" y="5101" width="547" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<ellipse cx="6610.5" cy="5155" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="7191.5" cy="5155" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="5175" y="5237" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polyline points="5722,5019 6337,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,5019 6337,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5722,5019 6918,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6303,5019 6918,5019" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,5073 5448.5,5101" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,5073 5448.5,5101" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,5073 6029.5,5101" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6029.5,5073 6029.5,5101" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6884,5155 6918,5155" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="6610.5,5073 5448.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="7191.5,5073 5448.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5448.5,5209 5448.5,5237" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80" y="5820" width="2400" height="860" rx="18" fill="#F9F9E2" stroke="#614193" stroke-width="3"/>
+<rect x="135" y="5945" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="716" y="5945" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1297" y="5945" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="1878" y="5945" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="135" y="6081" width="547" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<ellipse cx="989.5" cy="6135" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="1570.5" cy="6135" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="2151.5" cy="6135" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="408.5" cy="6271" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="989.5" cy="6271" rx="273.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="1297" y="6217" width="547" height="108" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<polyline points="682,5999 716,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,5999 1878,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,5999 1297,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,5999 1878,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,6053 408.5,6081" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1263,6135 1297,6135" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1844,6135 1878,6135" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2151.5,6189 408.5,6217" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="682,6271 716,6271" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1570.5,6325 989.5,5945" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2600" y="5820" width="4920" height="860" rx="18" fill="#FFF8F7" stroke="#C62828" stroke-width="3" stroke-dasharray="12 10"/>
+<rect x="2655" y="5945" width="571" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3260" y="5945" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="3865" y="5945" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="4470" y="5945" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5075" y="5945" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5680" y="5945" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6285" y="5945" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="6890" y="5945" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="2655" y="6081" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="3260" y="6081" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="3865" y="6081" width="571" height="108" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<ellipse cx="4755.5" cy="6135" rx="285.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="5360.5" cy="6135" rx="285.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="5965.5" cy="6135" rx="285.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<ellipse cx="6570.5" cy="6135" rx="285.5" ry="54" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="6890" y="6081" width="571" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="2655" y="6217" width="571" height="108" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<rect x="3260" y="6217" width="571" height="108" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<polyline points="3226,5999 3260,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3226,5999 3865,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3226,5999 4470,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3226,5999 5075,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3226,5999 5680,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3226,5999 6285,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="3226,5999 6890,5999" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2940.5,6053 2940.5,6081" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2940.5,6053 3545.5,6081" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2940.5,6053 4150.5,6081" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4436,6135 4470,6135" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5041,6135 5075,6135" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5646,6135 5680,6135" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="5041,6135 6285,6135" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4436,6135 6890,6135" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="4150.5,6189 2940.5,6217" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="2940.5,6053 3545.5,6217" fill="none" stroke="#6B7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="5560" y="252" width="140" height="54" rx="18" fill="#FFFFFF" stroke="#614193" stroke-width="2"/>
+<polygon points="5630,328 5700,355 5630,382 5560,355" fill="#FDEBE7" stroke="#E45336" stroke-width="2"/>
+<ellipse cx="5630" cy="431" rx="70" ry="27" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+<rect x="5560" y="480" width="140" height="54" rx="18" fill="#FDEBE7" stroke="#E45336" stroke-width="2" stroke-dasharray="12 10"/>
+<rect x="5560" y="556" width="140" height="54" rx="18" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<rect x="5560" y="632" width="140" height="54" rx="18" fill="#FFF3F3" stroke="#C62828" stroke-width="2" stroke-dasharray="12 10"/>
+<text x="114" y="132.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="114" dy="0">ÁREA 1 · HUPI MASTER MAP</tspan></text>
+<text x="114" y="169.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="114" dy="0">Una sola Cuenta Hupi · rol cliente siempre disponible · proveedor es una capacidad adicional</tspan></text>
+<text x="770.5" y="254.3" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="770.5" dy="0">[AUTH-01]</tspan><tspan x="770.5" dy="19.2">Splash</tspan></text>
+<text x="2079.5" y="254.3" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2079.5" dy="0">HUPI</tspan><tspan x="2079.5" dy="19.2">Prototipo funcional</tspan></text>
+<text x="3388.5" y="254.3" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3388.5" dy="0">Cuenta Hupi única</tspan><tspan x="3388.5" dy="19.2">(no cuentas separadas)</tspan></text>
+<text x="4697.5" y="263.9" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4697.5" dy="0">¿Rol activo?</tspan></text>
+<text x="770.5" y="387.3" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="770.5" dy="0">[HOME-01]</tspan><tspan x="770.5" dy="19.2">Cliente</tspan></text>
+<text x="2079.5" y="387.3" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2079.5" dy="0">[PROVIDER-01]</tspan><tspan x="2079.5" dy="19.2">Cliente + Proveedor</tspan></text>
+<text x="3388.5" y="387.3" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3388.5" dy="0">[WALK-01]</tspan><tspan x="3388.5" dy="19.2">Paseos</tspan></text>
+<text x="4697.5" y="387.3" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4697.5" dy="0">[MARKET-01]</tspan><tspan x="4697.5" dy="19.2">Marketplace</tspan></text>
+<text x="114" y="972.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="114" dy="0">ÁREA 2 · CUENTA / AUTH / ONBOARDING</tspan></text>
+<text x="114" y="1009.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="114" dy="0">Correo obligatorio con validación local; no existe OTP de correo en el alta.</tspan></text>
+<text x="408.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[AUTH-01]</tspan><tspan x="408.5" dy="19.2">Splash</tspan></text>
+<text x="989.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[ONBOARD-01]</tspan><tspan x="989.5" dy="19.2">Inicio / bienvenida</tspan></text>
+<text x="1570.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[AUTH-03]</tspan><tspan x="1570.5" dy="19.2">Login</tspan></text>
+<text x="2151.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[AUTH-04]</tspan><tspan x="2151.5" dy="19.2">Registro cliente</tspan></text>
+<text x="408.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[AUTH-05]</tspan><tspan x="408.5" dy="19.2">Verificación celular</tspan></text>
+<text x="989.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[AUTH-06]</tspan><tspan x="989.5" dy="19.2">Recuperación de acceso</tspan></text>
+<text x="1570.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[ONBOARD-02]</tspan><tspan x="1570.5" dy="19.2">Perfil / onboarding</tspan></text>
+<text x="2151.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[ONBOARD-03]</tspan><tspan x="2151.5" dy="19.2">Permisos</tspan></text>
+<text x="408.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[HOME-01]</tspan><tspan x="408.5" dy="19.2">Home</tspan></text>
+<text x="989.5" y="1358.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">ACCIÓN</tspan><tspan x="989.5" dy="19.2">[SETTINGS-02]</tspan><tspan x="989.5" dy="19.2">Cerrar sesión → AUTH-03</tspan></text>
+<text x="1570.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[AUTH-02]</tspan><tspan x="1570.5" dy="19.2">Recuperación de arranque</tspan></text>
+<text x="2151.5" y="1358.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[VERIFY-01]</tspan><tspan x="2151.5" dy="19.2">Verificación correo local</tspan><tspan x="2151.5" dy="19.2">(sin código)</tspan></text>
+<text x="2634" y="972.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="2634" dy="0">ÁREA 3 · ENTRADA COMO PROVEEDOR</tspan></text>
+<text x="2634" y="1009.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="2634" dy="0">Ambos caminos convergen en la misma verificación y la misma Cuenta Hupi.</tspan></text>
+<text x="2928.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[PROFILE-01]</tspan><tspan x="2928.5" dy="19.2">Cliente existente</tspan></text>
+<text x="3509.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">ACCIÓN</tspan><tspan x="3509.5" dy="19.2">¿Quieres trabajar con Hupi?</tspan></text>
+<text x="4090.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">[AUTH-08]</tspan><tspan x="4090.5" dy="19.2">Natural / Jurídica</tspan></text>
+<text x="4671.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[AUTH-03]</tspan><tspan x="4671.5" dy="19.2">Inicio</tspan></text>
+<text x="2928.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[AUTH-07]</tspan><tspan x="2928.5" dy="19.2">Entrar como proveedor</tspan></text>
+<text x="3509.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">ACCIÓN</tspan><tspan x="3509.5" dy="19.2">Crear cuenta proveedor</tspan></text>
+<text x="4090.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">[AUTH-08]</tspan><tspan x="4090.5" dy="19.2">Datos básicos proveedor</tspan></text>
+<text x="4671.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[AUTH-05]</tspan><tspan x="4671.5" dy="19.2">Verificación celular</tspan></text>
+<text x="2928.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[VERIFY-01]</tspan><tspan x="2928.5" dy="19.2">Provider Verification</tspan></text>
+<text x="3509.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[PROVIDER-01]</tspan><tspan x="3509.5" dy="19.2">Modo proveedor</tspan></text>
+<text x="5154" y="972.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="5154" dy="0">ÁREA 4 · VERIFICACIÓN NATURAL</tspan></text>
+<text x="5154" y="1009.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="5154" dy="0">Todo ocurre en AUTH-08 / VERIFY-01. Sin certificado bancario ni certificado adicional.</tspan></text>
+<text x="5448.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[AUTH-08]</tspan><tspan x="5448.5" dy="19.2">Datos básicos</tspan></text>
+<text x="6029.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">[AUTH-08]</tspan><tspan x="6029.5" dy="19.2">Tipo: Natural</tspan></text>
+<text x="6610.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">[AUTH-05]</tspan><tspan x="6610.5" dy="19.2">Celular</tspan></text>
+<text x="7191.5" y="1095.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">[VERIFY-01]</tspan><tspan x="7191.5" dy="19.2">Correo validado localmente</tspan></text>
+<text x="5448.5" y="1231.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[VERIFY-01]</tspan><tspan x="5448.5" dy="19.2">Identidad / datos personales</tspan></text>
+<text x="6029.5" y="1222.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">ACCIÓN</tspan><tspan x="6029.5" dy="19.2">[VERIFY-01]</tspan><tspan x="6029.5" dy="19.2">Selfie en el momento</tspan></text>
+<text x="6610.5" y="1222.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">ACCIÓN</tspan><tspan x="6610.5" dy="19.2">[VERIFY-01]</tspan><tspan x="6610.5" dy="19.2">Cédula frente</tspan></text>
+<text x="7191.5" y="1222.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ACCIÓN</tspan><tspan x="7191.5" dy="19.2">[VERIFY-01]</tspan><tspan x="7191.5" dy="19.2">Cédula reverso</tspan></text>
+<text x="5448.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[VERIFY-01]</tspan><tspan x="5448.5" dy="19.2">Dirección</tspan></text>
+<text x="6029.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">[VERIFY-01]</tspan><tspan x="6029.5" dy="19.2">Persona de contacto</tspan></text>
+<text x="6610.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">[VERIFY-01]</tspan><tspan x="6610.5" dy="19.2">Datos bancarios</tspan></text>
+<text x="7191.5" y="1367.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">[VERIFY-01]</tspan><tspan x="7191.5" dy="19.2">Revisión</tspan></text>
+<text x="5448.5" y="1494.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ACCIÓN</tspan><tspan x="5448.5" dy="19.2">[VERIFY-01]</tspan><tspan x="5448.5" dy="19.2">Enviar</tspan></text>
+<text x="6029.5" y="1484.6" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">ACCIÓN</tspan><tspan x="6029.5" dy="19.2">[ONBOARD-01]</tspan><tspan x="6029.5" dy="19.2">Omitir por ahora</tspan><tspan x="6029.5" dy="19.2">(solo bienvenida)</tspan></text>
+<text x="6610.5" y="1494.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">ACCIÓN</tspan><tspan x="6610.5" dy="19.2">[VERIFY-01]</tspan><tspan x="6610.5" dy="19.2">Continuar más tarde</tspan></text>
+<text x="7191.5" y="1494.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ACCIÓN</tspan><tspan x="7191.5" dy="19.2">[VERIFY-01]</tspan><tspan x="7191.5" dy="19.2">Retomar lastPendingSection</tspan></text>
+<text x="5448.5" y="1639.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ESTADO</tspan><tspan x="5448.5" dy="19.2">in_progress</tspan></text>
+<text x="6029.5" y="1630.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">ESTADO</tspan><tspan x="6029.5" dy="19.2">submitted</tspan><tspan x="6029.5" dy="19.2">(modelado)</tspan></text>
+<text x="6610.5" y="1639.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">ESTADO</tspan><tspan x="6610.5" dy="19.2">under_review</tspan></text>
+<text x="7191.5" y="1639.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ESTADO</tspan><tspan x="7191.5" dy="19.2">changes_requested</tspan></text>
+<text x="5448.5" y="1775.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ESTADO</tspan><tspan x="5448.5" dy="19.2">approved / rejected / suspended</tspan></text>
+<text x="114" y="1952.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="114" dy="0">ÁREA 5 · VERIFICACIÓN JURÍDICA</tspan></text>
+<text x="114" y="1989.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="114" dy="0">La persona de contacto puede reutilizar al representante legal. Sin certificado bancario.</tspan></text>
+<text x="408.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[AUTH-08]</tspan><tspan x="408.5" dy="19.2">Tipo: Jurídica</tspan></text>
+<text x="989.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[VERIFY-01]</tspan><tspan x="989.5" dy="19.2">Datos empresa</tspan></text>
+<text x="1570.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[VERIFY-01]</tspan><tspan x="1570.5" dy="19.2">RUC</tspan></text>
+<text x="2151.5" y="2066.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">ACCIÓN</tspan><tspan x="2151.5" dy="19.2">[VERIFY-01]</tspan><tspan x="2151.5" dy="19.2">Constitución</tspan></text>
+<text x="408.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[VERIFY-01]</tspan><tspan x="408.5" dy="19.2">Representante legal</tspan></text>
+<text x="989.5" y="2202.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">ACCIÓN</tspan><tspan x="989.5" dy="19.2">[VERIFY-01]</tspan><tspan x="989.5" dy="19.2">Nombramiento</tspan></text>
+<text x="1570.5" y="2202.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">ACCIÓN</tspan><tspan x="1570.5" dy="19.2">[VERIFY-01]</tspan><tspan x="1570.5" dy="19.2">Selfie representante</tspan></text>
+<text x="2151.5" y="2192.6" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">ACCIÓN</tspan><tspan x="2151.5" dy="19.2">[VERIFY-01]</tspan><tspan x="2151.5" dy="19.2">Cédula representante</tspan><tspan x="2151.5" dy="19.2">frente / reverso</tspan></text>
+<text x="408.5" y="2347.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[VERIFY-01]</tspan><tspan x="408.5" dy="19.2">Dirección fiscal</tspan></text>
+<text x="989.5" y="2347.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[VERIFY-01]</tspan><tspan x="989.5" dy="19.2">¿Contacto = representante?</tspan></text>
+<text x="1570.5" y="2347.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[VERIFY-01]</tspan><tspan x="1570.5" dy="19.2">Persona de contacto</tspan></text>
+<text x="2151.5" y="2347.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[VERIFY-01]</tspan><tspan x="2151.5" dy="19.2">Datos bancarios</tspan></text>
+<text x="408.5" y="2483.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[VERIFY-01]</tspan><tspan x="408.5" dy="19.2">Revisión</tspan></text>
+<text x="989.5" y="2474.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">ACCIÓN</tspan><tspan x="989.5" dy="19.2">[VERIFY-01]</tspan><tspan x="989.5" dy="19.2">Enviar → under_review</tspan></text>
+<text x="2634" y="1952.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="2634" dy="0">ÁREA 6 · PROVEEDOR ≠ SERVICIO</tspan></text>
+<text x="2634" y="1989.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="2634" dy="0">La verificación documental general no aprueba automáticamente cada servicio.</tspan></text>
+<text x="2928.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[VERIFY-01]</tspan><tspan x="2928.5" dy="19.2">VERIFICACIÓN DEL PROVEEDOR</tspan></text>
+<text x="3509.5" y="2085.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">¿Proveedor approved?</tspan></text>
+<text x="4090.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">ESTADO</tspan><tspan x="4090.5" dy="19.2">Proveedor approved</tspan></text>
+<text x="4671.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[WALK-03]</tspan><tspan x="4671.5" dy="19.2">Paseos</tspan></text>
+<text x="2928.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">ESTADO</tspan><tspan x="2928.5" dy="19.2">not_configured / draft</tspan></text>
+<text x="3509.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">ESTADO</tspan><tspan x="3509.5" dy="19.2">pending_approval</tspan></text>
+<text x="4090.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">ESTADO</tspan><tspan x="4090.5" dy="19.2">changes_requested</tspan></text>
+<text x="4671.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">ESTADO</tspan><tspan x="4671.5" dy="19.2">approved</tspan></text>
+<text x="2928.5" y="2347.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[MARKET-04]</tspan><tspan x="2928.5" dy="19.2">Marketplace</tspan></text>
+<text x="3509.5" y="2347.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">Configuración de tienda,</tspan><tspan x="3509.5" dy="19.2">productos y pedidos</tspan></text>
+<text x="5154" y="1952.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="5154" dy="0">ÁREA 7 · DASHBOARD PROVEEDOR</tspan></text>
+<text x="5154" y="1989.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="5154" dy="0">Mensajes y notificaciones son accesos del header; volver a cliente cambia el modo, no la cuenta.</tspan></text>
+<text x="5448.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[PROVIDER-01]</tspan><tspan x="5448.5" dy="19.2">Modo proveedor</tspan></text>
+<text x="6029.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">[VERIFY-01]</tspan><tspan x="6029.5" dy="19.2">Verificación</tspan></text>
+<text x="6610.5" y="2085.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">Indicadores generales</tspan></text>
+<text x="7191.5" y="2075.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">[WALK-03]</tspan><tspan x="7191.5" dy="19.2">Paseos</tspan></text>
+<text x="5448.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[MARKET-04]</tspan><tspan x="5448.5" dy="19.2">Mi tienda Marketplace</tspan></text>
+<text x="6029.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">[CHAT-02]</tspan><tspan x="6029.5" dy="19.2">Mensajes</tspan></text>
+<text x="6610.5" y="2211.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">[NOTIFY-02]</tspan><tspan x="6610.5" dy="19.2">Notificaciones</tspan></text>
+<text x="7191.5" y="2202.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ACCIÓN</tspan><tspan x="7191.5" dy="19.2">[HOME-01]</tspan><tspan x="7191.5" dy="19.2">Volver a modo cliente</tspan></text>
+<text x="114" y="2932.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="114" dy="0">ÁREA 8 · PASEOS · CLIENTE</tspan></text>
+<text x="114" y="2969.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="114" dy="0">Mascota, dirección, preferencias, facturación y pago son bloques de CHECKOUT-01.</tspan></text>
+<text x="408.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[HOME-01]</tspan><tspan x="408.5" dy="19.2">Formulario Paseo</tspan></text>
+<text x="989.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[WALK-01]</tspan><tspan x="989.5" dy="19.2">Búsqueda / lista / mapa</tspan></text>
+<text x="1570.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[WALK-02]</tspan><tspan x="1570.5" dy="19.2">Perfil público / planes</tspan></text>
+<text x="2151.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[CHAT-01]</tspan><tspan x="2151.5" dy="19.2">Chat / oferta</tspan></text>
+<text x="408.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[CHECKOUT-01]</tspan><tspan x="408.5" dy="19.2">Checkout</tspan></text>
+<text x="989.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[CHECKOUT-01]</tspan><tspan x="989.5" dy="19.2">Mascota</tspan></text>
+<text x="1570.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[CHECKOUT-01]</tspan><tspan x="1570.5" dy="19.2">Dirección + preferencias</tspan></text>
+<text x="2151.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[CHECKOUT-01]</tspan><tspan x="2151.5" dy="19.2">Facturación + pago</tspan></text>
+<text x="408.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[BOOKING-02]</tspan><tspan x="408.5" dy="19.2">Confirmación</tspan></text>
+<text x="989.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[BOOKING-01]</tspan><tspan x="989.5" dy="19.2">Reservas</tspan></text>
+<text x="1570.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[BOOKING-03]</tspan><tspan x="1570.5" dy="19.2">Detalle</tspan></text>
+<text x="2151.5" y="3318.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">ESTADO</tspan><tspan x="2151.5" dy="19.2">[BOOKING-03]</tspan><tspan x="2151.5" dy="19.2">Paseo en curso + timer</tspan></text>
+<text x="408.5" y="3454.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">ESTADO</tspan><tspan x="408.5" dy="19.2">[BOOKING-03]</tspan><tspan x="408.5" dy="19.2">Completado</tspan></text>
+<text x="989.5" y="3454.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">ACCIÓN</tspan><tspan x="989.5" dy="19.2">[BOOKING-03]</tspan><tspan x="989.5" dy="19.2">Reseña</tspan></text>
+<text x="1570.5" y="3463.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[BOOKING-03]</tspan><tspan x="1570.5" dy="19.2">Cancelar cliente</tspan></text>
+<text x="2634" y="2932.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="2634" dy="0">ÁREA 9 · PASEOS · PROVEEDOR</tspan></text>
+<text x="2634" y="2969.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="2634" dy="0">Crear/editar plan es modal dentro de WALK-07; disponibilidad actual es informativa.</tspan></text>
+<text x="2928.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[PROVIDER-01]</tspan><tspan x="2928.5" dy="19.2">Modo proveedor</tspan></text>
+<text x="3509.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[WALK-03]</tspan><tspan x="3509.5" dy="19.2">Paseos</tspan></text>
+<text x="4090.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">[WALK-04]</tspan><tspan x="4090.5" dy="19.2">Tarifa</tspan></text>
+<text x="4671.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[WALK-08]</tspan><tspan x="4671.5" dy="19.2">Ficha pública</tspan></text>
+<text x="2928.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[WALK-07]</tspan><tspan x="2928.5" dy="19.2">Mis planes</tspan></text>
+<text x="3509.5" y="3182.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">ACCIÓN</tspan><tspan x="3509.5" dy="19.2">[WALK-07]</tspan><tspan x="3509.5" dy="19.2">Crear plan</tspan></text>
+<text x="4090.5" y="3182.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">ACCIÓN</tspan><tspan x="4090.5" dy="19.2">[WALK-07]</tspan><tspan x="4090.5" dy="19.2">Editar plan (modal)</tspan></text>
+<text x="4671.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[WALK-09]</tspan><tspan x="4671.5" dy="19.2">Disponibilidad</tspan></text>
+<text x="2928.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[WALK-06]</tspan><tspan x="2928.5" dy="19.2">Solicitudes</tspan></text>
+<text x="3509.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[WALK-05]</tspan><tspan x="3509.5" dy="19.2">Mis agendamientos</tspan></text>
+<text x="4090.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">[WALK-12]</tspan><tspan x="4090.5" dy="19.2">Detalle</tspan></text>
+<text x="4671.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[WALK-10]</tspan><tspan x="4671.5" dy="19.2">Resumen financiero</tspan></text>
+<text x="2928.5" y="3463.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[WALK-11]</tspan><tspan x="2928.5" dy="19.2">Condiciones (+40 min)</tspan></text>
+<text x="5154" y="2932.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="5154" dy="0">ÁREA 10 · CICLO OPERATIVO DEL PASEO</tspan></text>
+<text x="5154" y="2969.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="5154" dy="0">BOOKING-03 y WALK-12 leen el MISMO bookingId; no existen copias por vista.</tspan></text>
+<text x="5448.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">MISMO BOOKING</tspan><tspan x="5448.5" dy="19.2">bookingId estable</tspan></text>
+<text x="6029.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">[WALK-12]</tspan><tspan x="6029.5" dy="19.2">Proveedor</tspan></text>
+<text x="6610.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">[BOOKING-03]</tspan><tspan x="6610.5" dy="19.2">Cliente</tspan></text>
+<text x="7191.5" y="3055.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ESTADO</tspan><tspan x="7191.5" dy="19.2">scheduled</tspan></text>
+<text x="5448.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ACCIÓN</tspan><tspan x="5448.5" dy="19.2">Proveedor: Iniciar paseo</tspan></text>
+<text x="6029.5" y="3201.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">startedAt = timestamp</tspan></text>
+<text x="6610.5" y="3191.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">ESTADO</tspan><tspan x="6610.5" dy="19.2">in_progress</tspan></text>
+<text x="7191.5" y="3201.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">temporizador compartido</tspan></text>
+<text x="5448.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ACCIÓN</tspan><tspan x="5448.5" dy="19.2">Proveedor: Finalizar paseo</tspan></text>
+<text x="6029.5" y="3337.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">completedAt = timestamp</tspan></text>
+<text x="6610.5" y="3327.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">ESTADO</tspan><tspan x="6610.5" dy="19.2">completed</tspan></text>
+<text x="7191.5" y="3337.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">Proveedor cancela</tspan></text>
+<text x="5448.5" y="3463.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ESTADO</tspan><tspan x="5448.5" dy="19.2">cancelled</tspan></text>
+<text x="6029.5" y="3473.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">payout proveedor = 0</tspan></text>
+<text x="6610.5" y="3473.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">afecta tasa cancelación</tspan></text>
+<text x="7191.5" y="3463.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">cliente ve Cancelado</tspan><tspan x="7191.5" dy="19.2">por proveedor</tspan></text>
+<text x="5448.5" y="3599.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">scheduledStartAt · startedAt</tspan><tspan x="5448.5" dy="19.2">puntualidad · retraso</tspan></text>
+<text x="6029.5" y="3609.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">completedAt · duración real</tspan></text>
+<text x="114" y="3912.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="114" dy="0">ÁREA 11 · CANCELACIÓN CLIENTE</tspan></text>
+<text x="114" y="3949.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="114" dy="0">La cotización usa horas exactas hasta startsAt y el monto total original.</tspan></text>
+<text x="408.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[BOOKING-03]</tspan><tspan x="408.5" dy="19.2">Cancelar reserva</tspan></text>
+<text x="989.5" y="4045.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">Horas hasta inicio</tspan></text>
+<text x="1570.5" y="4026.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">ESTADO</tspan><tspan x="1570.5" dy="19.2">&gt;= 72 h</tspan><tspan x="1570.5" dy="19.2">cargo 0% · devolución 100%</tspan></text>
+<text x="2151.5" y="4026.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">ESTADO</tspan><tspan x="2151.5" dy="19.2">24–71:59 h</tspan><tspan x="2151.5" dy="19.2">cargo 50% · devolución 50%</tspan></text>
+<text x="408.5" y="4162.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">ESTADO</tspan><tspan x="408.5" dy="19.2">&lt; 24 h</tspan><tspan x="408.5" dy="19.2">cargo 100% · devolución 0%</tspan></text>
+<text x="989.5" y="4181.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">Monto original</tspan></text>
+<text x="1570.5" y="4181.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">Cargo</tspan></text>
+<text x="2151.5" y="4181.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">Devolución</tspan></text>
+<text x="408.5" y="4317.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">Método</tspan></text>
+<text x="989.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">ACCIÓN</tspan><tspan x="989.5" dy="19.2">Saldo Hupi</tspan></text>
+<text x="1570.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">ACCIÓN</tspan><tspan x="1570.5" dy="19.2">Método original</tspan></text>
+<text x="2151.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">ACCIÓN</tspan><tspan x="2151.5" dy="19.2">Confirmar</tspan></text>
+<text x="408.5" y="4434.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">ESTADO</tspan><tspan x="408.5" dy="19.2">[BOOKING-03]</tspan><tspan x="408.5" dy="19.2">Cancelada</tspan></text>
+<text x="2634" y="3912.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="2634" dy="0">ÁREA 12 · MARKETPLACE · CLIENTE</tspan></text>
+<text x="2634" y="3949.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="2634" dy="0">Solo catálogo, estados, pagos y alternativas visibles en el prototipo auditado.</tspan></text>
+<text x="2928.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[MARKET-01]</tspan><tspan x="2928.5" dy="19.2">Marketplace</tspan></text>
+<text x="3509.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[MARKET-02] [MARKET-03]</tspan><tspan x="3509.5" dy="19.2">Tiendas</tspan></text>
+<text x="4090.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">[PRODUCT-01] [PRODUCT-02]</tspan><tspan x="4090.5" dy="19.2">Búsqueda / categorías</tspan></text>
+<text x="4671.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[PRODUCT-03]</tspan><tspan x="4671.5" dy="19.2">Producto / variaciones</tspan></text>
+<text x="2928.5" y="4171.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[CHECKOUT-02]</tspan><tspan x="2928.5" dy="19.2">Carrito</tspan></text>
+<text x="3509.5" y="4171.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[CHECKOUT-03]</tspan><tspan x="3509.5" dy="19.2">Checkout</tspan></text>
+<text x="4090.5" y="4171.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">[CHECKOUT-03]</tspan><tspan x="4090.5" dy="19.2">Facturación + dirección</tspan></text>
+<text x="4671.5" y="4171.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[CHECKOUT-03]</tspan><tspan x="4671.5" dy="19.2">Envío</tspan></text>
+<text x="2928.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[PAYMENT-02] [PAYMENT-03]</tspan><tspan x="2928.5" dy="19.2">Pago</tspan></text>
+<text x="3509.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[CHECKOUT-04]</tspan><tspan x="3509.5" dy="19.2">Cupón</tspan></text>
+<text x="4090.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">[ORDER-01]</tspan><tspan x="4090.5" dy="19.2">Confirmación</tspan></text>
+<text x="4671.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">[ORDER-04]</tspan><tspan x="4671.5" dy="19.2">Pedidos</tspan></text>
+<text x="2928.5" y="4443.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[ORDER-02]</tspan><tspan x="2928.5" dy="19.2">Detalle</tspan></text>
+<text x="3509.5" y="4443.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[ORDER-03]</tspan><tspan x="3509.5" dy="19.2">Tracking</tspan></text>
+<text x="5154" y="3912.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="5154" dy="0">ÁREA 13 · MARKETPLACE · PROVEEDOR</tspan></text>
+<text x="5154" y="3949.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="5154" dy="0">Los pedidos comienzan contraídos; evidencia se solicita al preparar En camino.</tspan></text>
+<text x="5448.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[PROVIDER-01]</tspan><tspan x="5448.5" dy="19.2">Modo proveedor</tspan></text>
+<text x="6029.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">[MARKET-04]</tspan><tspan x="6029.5" dy="19.2">Mi tienda</tspan></text>
+<text x="6610.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">[PRODUCT-05]</tspan><tspan x="6610.5" dy="19.2">Mis productos</tspan></text>
+<text x="7191.5" y="4035.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">[PRODUCT-04]</tspan><tspan x="7191.5" dy="19.2">Crear / editar producto</tspan></text>
+<text x="5448.5" y="4171.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[ORDER-06]</tspan><tspan x="5448.5" dy="19.2">Pedidos contraídos</tspan></text>
+<text x="6029.5" y="4162.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">ACCIÓN</tspan><tspan x="6029.5" dy="19.2">[ORDER-06]</tspan><tspan x="6029.5" dy="19.2">Expandir pedido</tspan></text>
+<text x="6610.5" y="4171.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">[ORDER-05]</tspan><tspan x="6610.5" dy="19.2">Gestionar pedido</tspan></text>
+<text x="7191.5" y="4162.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ESTADO</tspan><tspan x="7191.5" dy="19.2">Pendiente → Confirmado →</tspan><tspan x="7191.5" dy="19.2">Preparación → Listo</tspan></text>
+<text x="5448.5" y="4298.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ACCIÓN</tspan><tspan x="5448.5" dy="19.2">[ORDER-05]</tspan><tspan x="5448.5" dy="19.2">Evidencia antes de En camino</tspan></text>
+<text x="6029.5" y="4298.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">ESTADO</tspan><tspan x="6029.5" dy="19.2">En camino → Entregado</tspan><tspan x="6029.5" dy="19.2">Cancelado terminal</tspan></text>
+<text x="6610.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">[MARKET-05]</tspan><tspan x="6610.5" dy="19.2">Métodos / Envíos</tspan></text>
+<text x="7191.5" y="4307.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">[MARKET-06]</tspan><tspan x="7191.5" dy="19.2">Perfil de tienda</tspan></text>
+<text x="5448.5" y="4443.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[PAYMENT-05]</tspan><tspan x="5448.5" dy="19.2">Finanzas</tspan></text>
+<text x="114" y="4892.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="114" dy="0">ÁREA 14 · PERFIL / MASCOTAS / DIRECCIONES</tspan></text>
+<text x="114" y="4929.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="114" dy="0">Datos reutilizables: cuenta, dirección, facturación y contacto; no duplicar en backend futuro.</tspan></text>
+<text x="408.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[PROFILE-01]</tspan><tspan x="408.5" dy="19.2">Perfil</tspan></text>
+<text x="989.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[PROFILE-02]</tspan><tspan x="989.5" dy="19.2">Editar perfil</tspan></text>
+<text x="1570.5" y="5006.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">ACCIÓN</tspan><tspan x="1570.5" dy="19.2">[PROFILE-02]</tspan><tspan x="1570.5" dy="19.2">Cambiar contraseña</tspan></text>
+<text x="2151.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[BILLING-01]</tspan><tspan x="2151.5" dy="19.2">Facturación</tspan></text>
+<text x="408.5" y="5142.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">ACCIÓN</tspan><tspan x="408.5" dy="19.2">[PROFILE-01]</tspan><tspan x="408.5" dy="19.2">Trabajar con Hupi</tspan></text>
+<text x="989.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[PET-01]</tspan><tspan x="989.5" dy="19.2">Mascotas</tspan></text>
+<text x="1570.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[PET-02]</tspan><tspan x="1570.5" dy="19.2">Crear / editar</tspan></text>
+<text x="2151.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[PET-02] [PET-03]</tspan><tspan x="2151.5" dy="19.2">Veterinario / clínica</tspan></text>
+<text x="408.5" y="5287.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[PET-03]</tspan><tspan x="408.5" dy="19.2">Vacunación / carnet</tspan></text>
+<text x="989.5" y="5287.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[PET-02]</tspan><tspan x="989.5" dy="19.2">Contacto emergencia</tspan></text>
+<text x="1570.5" y="5287.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[PET-04]</tspan><tspan x="1570.5" dy="19.2">Historial / filtros</tspan></text>
+<text x="2151.5" y="5287.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[ADDRESS-01]</tspan><tspan x="2151.5" dy="19.2">Direcciones</tspan></text>
+<text x="408.5" y="5414.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">ACCIÓN</tspan><tspan x="408.5" dy="19.2">[ADDRESS-01]</tspan><tspan x="408.5" dy="19.2">Crear / editar</tspan></text>
+<text x="989.5" y="5423.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[ADDRESS-01]</tspan><tspan x="989.5" dy="19.2">Predeterminada</tspan></text>
+<text x="1570.5" y="5423.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[ADDRESS-01]</tspan><tspan x="1570.5" dy="19.2">Preferencias encuentro/entrega</tspan></text>
+<text x="2634" y="4892.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="2634" dy="0">ÁREA 15 · CHAT / OFERTAS</tspan></text>
+<text x="2634" y="4929.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="2634" dy="0">Proveedor solo puede enviar servicios o planes aprobados y públicos.</tspan></text>
+<text x="2928.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[CHAT-01]</tspan><tspan x="2928.5" dy="19.2">Chat</tspan></text>
+<text x="3509.5" y="5025.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">Mensajes</tspan></text>
+<text x="4090.5" y="5006.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">ACCIÓN</tspan><tspan x="4090.5" dy="19.2">Imágenes / cámara /</tspan><tspan x="4090.5" dy="19.2">documento</tspan></text>
+<text x="4671.5" y="5025.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">Viewer proveedor</tspan></text>
+<text x="2928.5" y="5161.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">Catálogo aprobado</tspan></text>
+<text x="3509.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">ACCIÓN</tspan><tspan x="3509.5" dy="19.2">Enviar oferta aprobada</tspan></text>
+<text x="4090.5" y="5161.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4090.5" dy="0">Cliente recibe oferta</tspan></text>
+<text x="4671.5" y="5161.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4671.5" dy="0">Aceptar / rechazar</tspan></text>
+<text x="2928.5" y="5287.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2928.5" dy="0">[CHECKOUT-01]</tspan><tspan x="2928.5" dy="19.2">Checkout desde oferta</tspan></text>
+<text x="3509.5" y="5287.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3509.5" dy="0">[CHAT-02]</tspan><tspan x="3509.5" dy="19.2">Bandeja proveedor</tspan></text>
+<text x="5154" y="4892.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="5154" dy="0">ÁREA 16 · NOTIFICACIONES</tspan></text>
+<text x="5154" y="4929.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="5154" dy="0">El comportamiento es equivalente para cliente y proveedor; cambian los targets.</tspan></text>
+<text x="5448.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">[NOTIFY-01]</tspan><tspan x="5448.5" dy="19.2">Cliente</tspan></text>
+<text x="6029.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">[NOTIFY-02]</tspan><tspan x="6029.5" dy="19.2">Proveedor</tspan></text>
+<text x="6610.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">ACCIÓN</tspan><tspan x="6610.5" dy="19.2">Tap tarjeta → abrir</tspan></text>
+<text x="7191.5" y="5015.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ACCIÓN</tspan><tspan x="7191.5" dy="19.2">CTA naranja #E45336 → abrir</tspan></text>
+<text x="5448.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">ACCIÓN</tspan><tspan x="5448.5" dy="19.2">Swipe izquierda → abrir</tspan></text>
+<text x="6029.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6029.5" dy="0">ACCIÓN</tspan><tspan x="6029.5" dy="19.2">Swipe derecha → eliminar</tspan></text>
+<text x="6610.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6610.5" dy="0">ESTADO</tspan><tspan x="6610.5" dy="19.2">unread</tspan></text>
+<text x="7191.5" y="5151.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7191.5" dy="0">ESTADO</tspan><tspan x="7191.5" dy="19.2">read</tspan></text>
+<text x="5448.5" y="5297.4" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5448.5" dy="0">Target validado</tspan></text>
+<text x="114" y="5872.2" font-family="Arial, sans-serif" font-size="28" fill="#614193" text-anchor="start"><tspan x="114" dy="0">ÁREA 17 · SOPORTE</tspan></text>
+<text x="114" y="5909.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="114" dy="0">Ticket local visible, relacionado opcionalmente con reserva o pedido.</tspan></text>
+<text x="408.5" y="5995.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[SUPPORT-01]</tspan><tspan x="408.5" dy="19.2">Hub soporte / FAQ</tspan></text>
+<text x="989.5" y="5995.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">[SUPPORT-02]</tspan><tspan x="989.5" dy="19.2">Crear ticket</tspan></text>
+<text x="1570.5" y="5995.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[SUPPORT-03]</tspan><tspan x="1570.5" dy="19.2">Mis tickets</tspan></text>
+<text x="2151.5" y="5995.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">[SUPPORT-04]</tspan><tspan x="2151.5" dy="19.2">Detalle / interacciones</tspan></text>
+<text x="408.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">[CHAT-01]</tspan><tspan x="408.5" dy="19.2">Chat soporte</tspan></text>
+<text x="989.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">ESTADO</tspan><tspan x="989.5" dy="19.2">Abierto</tspan></text>
+<text x="1570.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">ESTADO</tspan><tspan x="1570.5" dy="19.2">En revisión</tspan></text>
+<text x="2151.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2151.5" dy="0">ESTADO</tspan><tspan x="2151.5" dy="19.2">Esperando respuesta</tspan></text>
+<text x="408.5" y="6267.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="408.5" dy="0">ESTADO</tspan><tspan x="408.5" dy="19.2">Resuelto</tspan></text>
+<text x="989.5" y="6267.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="989.5" dy="0">ESTADO</tspan><tspan x="989.5" dy="19.2">Cerrado</tspan></text>
+<text x="1570.5" y="6267.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="1570.5" dy="0">[BOOKING-03] [ORDER-02]</tspan><tspan x="1570.5" dy="19.2">Contexto relacionado</tspan></text>
+<text x="2634" y="5872.2" font-family="Arial, sans-serif" font-size="28" fill="#C62828" text-anchor="start"><tspan x="2634" dy="0">ÁREA 18 · QA · DEVELOPMENT ONLY</tspan></text>
+<text x="2634" y="5909.4" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="2634" dy="0">Visible únicamente bajo __DEV__. Modo prueba es una configuración distinta.</tspan></text>
+<text x="2940.5" y="5995.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2940.5" dy="0">[SETTINGS-02]</tspan><tspan x="2940.5" dy="19.2">Opciones de desarrollo</tspan></text>
+<text x="3545.5" y="5987" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="3545.5" dy="0">DEV_QA</tspan><tspan x="3545.5" dy="18">[QA-01]</tspan><tspan x="3545.5" dy="18">Cliente nuevo</tspan></text>
+<text x="4150.5" y="5987" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="4150.5" dy="0">DEV_QA</tspan><tspan x="4150.5" dy="18">[QA-01]</tspan><tspan x="4150.5" dy="18">Cliente activo</tspan></text>
+<text x="4755.5" y="5987" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="4755.5" dy="0">DEV_QA</tspan><tspan x="4755.5" dy="18">[QA-01]</tspan><tspan x="4755.5" dy="18">Cliente + proveedor pendiente</tspan></text>
+<text x="5360.5" y="5987" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="5360.5" dy="0">DEV_QA</tspan><tspan x="5360.5" dy="18">[QA-01]</tspan><tspan x="5360.5" dy="18">Cliente + proveedor verificado</tspan></text>
+<text x="5965.5" y="5987" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="5965.5" dy="0">DEV_QA</tspan><tspan x="5965.5" dy="18">[QA-01]</tspan><tspan x="5965.5" dy="18">Proveedor nuevo</tspan></text>
+<text x="6570.5" y="5987" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="6570.5" dy="0">DEV_QA</tspan><tspan x="6570.5" dy="18">[QA-01]</tspan><tspan x="6570.5" dy="18">Proveedor incompleto</tspan></text>
+<text x="7175.5" y="5987" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="7175.5" dy="0">DEV_QA</tspan><tspan x="7175.5" dy="18">[QA-01]</tspan><tspan x="7175.5" dy="18">Proveedor verificado</tspan></text>
+<text x="2940.5" y="6114" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="2940.5" dy="0">DEV_QA</tspan><tspan x="2940.5" dy="18">[QA-01]</tspan><tspan x="2940.5" dy="18">Proveedor verificado +</tspan><tspan x="2940.5" dy="18">Paseos pendiente</tspan></text>
+<text x="3545.5" y="6123" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="3545.5" dy="0">DEV_QA</tspan><tspan x="3545.5" dy="18">[QA-02]</tspan><tspan x="3545.5" dy="18">Pasos 1–9 / continuar pendiente</tspan></text>
+<text x="4150.5" y="6123" font-family="Arial, sans-serif" font-size="15" fill="#333333" text-anchor="middle"><tspan x="4150.5" dy="0">DEV_QA</tspan><tspan x="4150.5" dy="18">[QA-03]</tspan><tspan x="4150.5" dy="18">QA-WALK-001 compartido</tspan></text>
+<text x="4755.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="4755.5" dy="0">ESTADO</tspan><tspan x="4755.5" dy="19.2">scheduled</tspan></text>
+<text x="5360.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5360.5" dy="0">ESTADO</tspan><tspan x="5360.5" dy="19.2">in_progress</tspan></text>
+<text x="5965.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="5965.5" dy="0">ESTADO</tspan><tspan x="5965.5" dy="19.2">completed</tspan></text>
+<text x="6570.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="6570.5" dy="0">ESTADO</tspan><tspan x="6570.5" dy="19.2">cancelled</tspan></text>
+<text x="7175.5" y="6131.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="7175.5" dy="0">[WALK-12]</tspan><tspan x="7175.5" dy="19.2">Vista proveedor</tspan></text>
+<text x="2940.5" y="6267.8" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="2940.5" dy="0">[BOOKING-03]</tspan><tspan x="2940.5" dy="19.2">Vista cliente</tspan></text>
+<text x="3545.5" y="6258.2" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle"><tspan x="3545.5" dy="0">ACCIÓN</tspan><tspan x="3545.5" dy="19.2">[ONBOARD-01]</tspan><tspan x="3545.5" dy="19.2">Reset bienvenida</tspan></text>
+<text x="5560" y="228.6" font-family="Arial, sans-serif" font-size="24" fill="#333333" text-anchor="start"><tspan x="5560" dy="0">LEYENDA VISUAL</tspan></text>
+<text x="5725" y="285.8" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="start"><tspan x="5725" dy="0">PANTALLA · rectángulo redondeado</tspan></text>
+<text x="5725" y="361.8" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="start"><tspan x="5725" dy="0">DECISIÓN · rombo</tspan></text>
+<text x="5725" y="437.8" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="start"><tspan x="5725" dy="0">ESTADO · elipse</tspan></text>
+<text x="5725" y="513.8" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="start"><tspan x="5725" dy="0">ACCIÓN USUARIO · borde discontinuo</tspan></text>
+<text x="5725" y="589.8" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="start"><tspan x="5725" dy="0">PROCESO · rectángulo gris</tspan></text>
+<text x="5725" y="665.8" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="start"><tspan x="5725" dy="0">DEV_QA · borde rojo discontinuo</tspan></text>
+<text x="5560" y="751.8" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="start"><tspan x="5560" dy="0">Flecha sólida = navegación / transición</tspan><tspan x="5560" dy="19.2">Flecha punteada = sincronización / lectura compartida</tspan></text>
+<a href="00-source-of-truth.md"><text x="630" y="780" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 00-source-of-truth.md</text></a>
+<a href="02-master-flows.md"><text x="2440" y="1760" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 02-master-flows.md</text></a>
+<a href="02-master-flows.md"><text x="4960" y="1760" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 02-master-flows.md</text></a>
+<a href="06-provider-verification.md"><text x="7480" y="1760" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 06-provider-verification.md</text></a>
+<a href="06-provider-verification.md"><text x="2440" y="2740" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 06-provider-verification.md</text></a>
+<a href="07-services.md"><text x="4960" y="2740" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 07-services.md</text></a>
+<a href="07-services.md"><text x="7480" y="2740" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 07-services.md</text></a>
+<a href="08-walks.md"><text x="2440" y="3720" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 08-walks.md</text></a>
+<a href="08-walks.md"><text x="4960" y="3720" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 08-walks.md</text></a>
+<a href="08-walks.md"><text x="7480" y="3720" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 08-walks.md</text></a>
+<a href="05-states-and-transitions.md"><text x="2440" y="4700" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 05-states-and-transitions.md</text></a>
+<a href="09-marketplace.md"><text x="4960" y="4700" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 09-marketplace.md</text></a>
+<a href="09-marketplace.md"><text x="7480" y="4700" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 09-marketplace.md</text></a>
+<a href="11-data-reuse.md"><text x="2440" y="5680" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 11-data-reuse.md</text></a>
+<a href="10-notifications-chat-support.md"><text x="4960" y="5680" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 10-notifications-chat-support.md</text></a>
+<a href="10-notifications-chat-support.md"><text x="7480" y="5680" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 10-notifications-chat-support.md</text></a>
+<a href="10-notifications-chat-support.md"><text x="2440" y="6660" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 10-notifications-chat-support.md</text></a>
+<a href="12-qa-scenarios.md"><text x="7480" y="6660" font-family="Arial, sans-serif" font-size="14" fill="#1976D2" text-anchor="end">↗ 12-qa-scenarios.md</text></a>
+<a href="01-screen-inventory.md"><text x="7300" y="700" font-family="Arial, sans-serif" font-size="16" fill="#1976D2" text-anchor="end">↗ Abrir inventario y buscar el ID</text></a>
+</svg>

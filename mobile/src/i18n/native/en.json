@@ -1,0 +1,11 @@
+{
+  "ios": {
+    "CFBundleDisplayName": "Hupi",
+    "NSLocationWhenInUseUsageDescription": "Hupi uses your location to find nearby dog walkers and confirm the service location.",
+    "NSCameraUsageDescription": "Hupi uses the camera so you can take a profile photo.",
+    "NSPhotoLibraryUsageDescription": "Hupi accesses your photos so you can choose a profile photo."
+  },
+  "android": {
+    "app_name": "Hupi"
+  }
+}

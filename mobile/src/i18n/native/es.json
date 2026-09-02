@@ -1,0 +1,11 @@
+{
+  "ios": {
+    "CFBundleDisplayName": "Hupi",
+    "NSLocationWhenInUseUsageDescription": "Hupi usa tu ubicación para encontrar paseadores cerca de ti y confirmar el punto de servicio.",
+    "NSCameraUsageDescription": "Hupi usa la cámara para permitirte tomar una foto de perfil.",
+    "NSPhotoLibraryUsageDescription": "Hupi accede a tus fotos para permitirte elegir una foto de perfil."
+  },
+  "android": {
+    "app_name": "Hupi"
+  }
+}
